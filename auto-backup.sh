@@ -13,3 +13,5 @@ fi
 # добавить этот файл в крон
 # crontab -e
 # */5 * * * * /Users/eka/Desktop/docs-kono/auto-backup.sh
+# в настройках добавить full disk access для /usr/sbin/cron
+# System Settings → Privacy & Security → Full Disk Access
